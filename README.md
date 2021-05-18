@@ -1,7 +1,7 @@
 # caribbean-14C
 ## A compilation of 2134 anthropogenic radiocarbon (<sup>14</sup>C) dates for the Caribbean region from 503 sites across 57 islands. 
 
-<img src="figs/caribbean-14C.jpg" width=250 align="right"></img>
+<img src="figs/caribbean_14C.jpg" width=250 align="right"></img>
 
 The information in this repository is largely adapted from the paper "Reevaluating human colonization of the Caribbean using chronometric hygiene and Bayesian modeling" by Napolitano et al. in _Science Advances_ (https://doi.org/10.1126/sciadv.aar7806). It also includes a number of newer radiocarbon dates that have since been published. 
 
