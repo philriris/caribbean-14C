@@ -26,5 +26,5 @@ Data are stored in a comma-separated value spreadsheet (.csv) file.
   <li><b>Error:</b> Measurement error.</li>
   <li><b>d13C:</b> Δ<sup>13</sup>C of the sample, if available.</li>
   <li><b>Reference:</b> Bibliographic reference for the sample.</li>
-  <li><b>calCurves:</b> Appropriate calibration curve for the sample, for use in _rcarbon_ or other calibration packages.</li>
+  <li><b>calCurves:</b> Appropriate calibration curve for the sample, for use in <i>rcarbon</i> or other calibration packages.</li>
 </ul>
