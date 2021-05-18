@@ -5,9 +5,7 @@ The information in this repository is largely adapted from the paper "Reevaluati
 
 Dates are mostly grouped and georeferenced by **island centroids**, that is, the geographical centre of the physical land mass the dated material originated from. The only exception are dates from the island of Hispaniola, which are split between Haiti and the Dominican Republic. In rare cases where an island's centroid lies in the sea (e.g. Crooked Island, Bahamas), it has been manually shifted to the nearest onshore location. 
 
-
-<img src="figs/caribbean_14C.jpg" width=500 align="left"></img>
-
+<img src="figs/caribbean_14C.jpg" width=400 align="center"></img>
 
 Data are stored in a comma-separated value spreadsheet (.csv) file.
 
