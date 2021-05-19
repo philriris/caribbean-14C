@@ -38,9 +38,8 @@ Outstanding issues with the spreadsheet:
 1. The dates are not associated to cultural data as in, for example, [rxpand](https://github.com/jgregoriods/rxpand)
 2. Local marine reservoir corrections are not included by default.
 
-An initial stopgap solution to 
+Oceanic circulation and upwelling in the Caribbean is complex. An initial stopgap solution is to use the closest
 
-```
-mixcurves()
-```
+## References
 
+Napolitano MF, DiNapoli RJ, Stone JH, Levin MJ, Jew NP, Lane BG, O’Connor JT, Fitzpatrick SM. Reevaluating human colonization of the Caribbean using chronometric hygiene and Bayesian modeling. _Science Advances_. **2019** 5: eaar7806. https://doi.org/10.1126/sciadv.aar7806
