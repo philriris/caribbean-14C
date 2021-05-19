@@ -7,6 +7,10 @@ Dates are mostly grouped and georeferenced by **island centroids**, that is, the
 
 <img src="figs/caribbean_14C.jpg" width=400 align="center"></img>
 
+Figure 1: Number of sites by island
+
+## Metadata and usage information
+
 Data are stored in a comma-separated value spreadsheet (.csv) file.
 
 <ul>
@@ -28,3 +32,15 @@ Data are stored in a comma-separated value spreadsheet (.csv) file.
   <li><b>Reference:</b> Bibliographic reference for the sample.</li>
   <li><b>calCurves:</b> Appropriate calibration curve for the sample, for use in <i>rcarbon</i> or other calibration packages.</li>
 </ul>
+
+Outstanding issues with the spreadsheet:
+
+1. The dates are not associated to cultural data as in, for example, [rxpand](https://github.com/jgregoriods/rxpand)
+2. Local marine reservoir corrections are not included by default.
+
+An initial stopgap solution to 
+
+```
+mixcurves()
+```
+
