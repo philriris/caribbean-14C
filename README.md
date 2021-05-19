@@ -1,7 +1,7 @@
 # caribbean-14C
 ## A compilation of 2147 anthropogenic radiocarbon (<sup>14</sup>C) dates for the Caribbean region from 504 sites across 57 islands. 
 
-The information in this repository is largely adapted from the paper "Reevaluating human colonization of the Caribbean using chronometric hygiene and Bayesian modeling" by Napolitano et al. in _Science Advances_ (https://doi.org/10.1126/sciadv.aar7806). It also includes a number of newer radiocarbon dates that have since been published. 
+The information in this repository is largely adapted from the paper "Reevaluating human colonization of the Caribbean using chronometric hygiene and Bayesian modeling" by Napolitano et al. in _Science Advances_ (https://doi.org/10.1126/sciadv.aar7806). It also includes a number of newer radiocarbon dates that have since been published. The main file is `caribbean-14C.csv`.
 
 Dates are mostly grouped and georeferenced by **island centroids**, that is, the geographical centre of the physical land mass the dated material originated from. The only exception are dates from the island of Hispaniola, which are split between Haiti and the Dominican Republic. In rare cases where an island's centroid lies in the sea (e.g. Crooked Island, Bahamas), it has been manually shifted to the nearest onshore location. 
 
@@ -33,7 +33,7 @@ Data are stored in a comma-separated value spreadsheet (.csv) file.
   <li><b>calCurves:</b> Appropriate calibration curve for the sample, for use in <i>rcarbon</i> or other calibration packages.</li>
 </ul>
 
-Outstanding issues with the spreadsheet:
+Outstanding issues with the data include:
 
 1. The dates are not associated to cultural data as in, for example, [rxpand](https://github.com/jgregoriods/rxpand)
 2. Local marine reservoir corrections are not included by default.
@@ -41,5 +41,7 @@ Outstanding issues with the spreadsheet:
 Oceanic circulation and upwelling in the Caribbean is complex. An initial stopgap solution is to use the closest
 
 ## References
+
+Calib.org [Internet]. 14Chrono Marine20 Reservoir Database. 2021. Last accessed: 2021-05-19. Available: http://calib.org/marine/.
 
 Napolitano MF, DiNapoli RJ, Stone JH, Levin MJ, Jew NP, Lane BG, O’Connor JT, Fitzpatrick SM. Reevaluating human colonization of the Caribbean using chronometric hygiene and Bayesian modeling. _Science Advances_. **2019** 5: eaar7806. https://doi.org/10.1126/sciadv.aar7806
